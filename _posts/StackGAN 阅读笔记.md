@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      "StackGAN阅读笔记"
+subtitle:   " 多尺度GAN，分成低分辨率DG和高分辨率DG"
+date:       2018-11-26 16:00:00
+author:     "阿土"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - GAN
+---
 ## StackGAN 阅读笔记
 ***
 ![@StackGAN模型架构图 | center ](../img/in-post/StackGAN/1543202531037.png)
